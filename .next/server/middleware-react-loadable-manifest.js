@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"../components/home-page/brand.js -> ../swiper":{"id":"../components/home-page/brand.js -> ../swiper","files":[]},"../components/home-page/testimonial.js -> ../swiper":{"id":"../components/home-page/testimonial.js -> ../swiper","files":[]}}
