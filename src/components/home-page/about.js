@@ -13,7 +13,7 @@ function About() {
 					<div className="about-content max-md:pt-10">
 						<span className={subTitle}>About</span>
 						<h2 className={title}>
-							Over 12 years leading and deeps in interiors industrial
+							Insert brief company history or key value proposition here
 						</h2>
 						<h3 className="text-secondary text-2xl mb-12">
 							We know that good design means <br /> good business
