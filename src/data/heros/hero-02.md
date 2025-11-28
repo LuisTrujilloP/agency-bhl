@@ -7,6 +7,6 @@ twitterIcon: "FaTwitter"
 facebookIcon: "FaFacebookF"
 googleIcon: "FaGoogle"
 heroCategory: Surrogacy <br /> Agency
-heroTitle: Companies  <br /> Title
+heroTitle: Company  <br /> Name
 heroContactInfo: me@email.co
 ---

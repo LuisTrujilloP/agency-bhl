@@ -6,9 +6,5 @@
   "../components/home-page/testimonial.js -> ../swiper": {
     "id": "../components/home-page/testimonial.js -> ../swiper",
     "files": []
-  },
-  "../components/projects/projects-slider.js -> ../swiper": {
-    "id": "../components/projects/projects-slider.js -> ../swiper",
-    "files": []
   }
 }
